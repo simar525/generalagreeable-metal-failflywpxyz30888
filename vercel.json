@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://agreeable-metal-fail.flywp.xyz/$1"
+ }
+  ]
+}
